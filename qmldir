@@ -1,0 +1,3 @@
+module me.qtquick.CommandLineOptions
+plugin commandlineoptions
+
